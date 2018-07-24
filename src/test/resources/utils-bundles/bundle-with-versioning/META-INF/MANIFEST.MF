@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Build-Tag: HEAD
+Build-Revision: a032175
+Build-Branch: FOO
+Build-Timestamp: 2017-01-23T10:36:27Z
+Build-Jdk: 1.8.0_74
+Built-By: ottobackwards
+Bundle-Group: com.github.palindromicity
+Bundle-Id: palindromicity-hadoop-bundle
+Bundle-Version: 1.2.0
+Bundle-Dependency-Group: com.github.palindromicity.hadoop
+Bundle-Dependency-Id: palindromicity-hadoop-libraries-bundle
+Bundle-Dependency-Version: 1.2.1
+Created-By: Apache Maven 3.3.3
